@@ -1,0 +1,103 @@
+.container{
+    max-width: 100%;
+    height: auto;
+    margin: auto auto;
+}
+
+.body {
+    width: 100%;
+    height: auto;
+    /* border: 1px solid red; */
+}
+
+.body_top {
+    width: 95%;
+    margin: 5px auto;
+    height: 600px;
+    display: flex;
+    justify-content: space-between;
+    /* border: 1px solid blue; */
+}
+
+.body_mid {
+    width: 95%;
+    height: auto;
+    margin: 5rem auto;
+    display: flex;
+    justify-content: space-between;
+    /* border: 1px solid red; */
+}
+
+.body_mid>div {
+    width: 48%;
+    /* border: 1px solid red; */
+}
+.body_mid_bottom {
+    width: 100%;
+    height: auto;
+    margin: 0px auto;
+    /* border: 1px solid red; */
+}
+.founded_brands{
+    margin: 60px auto;
+    width: 100%;
+    height: auto;
+    /* border: 1px solid red; */
+
+}
+.founded_brands>div{
+    width: 95%;
+    height: auto;
+    margin: auto;
+    /* border: 1px solid red; */
+}
+.brandCards{
+    margin: 35px auto;
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 15px;
+}
+.brandCards>div{
+    margin-top: 25px;
+    width: 98.5%;
+    border: 1px solid red;
+    height: 350px;
+    /* border: 1px solid blue; */
+}
+.brandCards_text{
+    text-align: center;
+}
+.seeMore_btn{
+    background-color: #8B0909;
+    color: white;
+    margin-top: 10px;
+    border-radius: 5px;
+    height: 35px;
+    width: 120px;
+    margin-left: 47%;
+}
+.bottom_banner{
+    width: 95%;
+    margin: auto;
+}
+.bottom_end{
+    width: 95%;
+    height: auto;
+    margin: 50px auto;
+    /* border: 1px solid red; */
+}
+.bottom_end_cards{
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-template-rows: auto;
+    gap: 10px;
+    width: 100%;
+    height: auto;
+    margin: auto;
+}
+
+.bottom_end_single_card{
+    margin-top: 20px;
+    border: 1px solid rgb(235, 229, 229);
+    border-radius: 3px;
+}
