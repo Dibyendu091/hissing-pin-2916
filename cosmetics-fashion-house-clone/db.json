@@ -1,0 +1,110 @@
+{
+    "founded_brands" : [
+        {
+            "id" : 1,
+            "image" : "https://images.bloomingdalesassets.com/is/image/BLM/products/1/optimized/12522871_fpx.tif?op_sharpen=1&wid=240&hei=300&fit=fit,1&qlt=50&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+            "title" : "Good American",
+            "price" : "8469.00"
+        },
+        {
+            "id" : 2,
+            "image" : "https://images.bloomingdalesassets.com/is/image/BLM/products/3/optimized/12608733_fpx.tif?op_sharpen=1&wid=240&hei=300&fit=fit,1&qlt=50&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+            "price" : 8469.00
+        },
+        {
+            "id" : 3,
+            "image" : "https://images.bloomingdalesassets.com/is/image/BLM/products/1/optimized/12608611_fpx.tif?op_sharpen=1&wid=240&hei=300&fit=fit,1&qlt=50&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+            "title" : "Good American",
+            "price" : 8469.00
+        },
+        {
+            "id" : 4,
+            "image" : "https://images.bloomingdalesassets.com/is/image/BLM/products/8/optimized/12406798_fpx.tif?op_sharpen=1&wid=240&hei=300&fit=fit,1&qlt=50&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+            "title" : "Good American",
+            "price" : 8469.00
+        },
+        {
+            "id" : 5,
+            "image" : "https://images.bloomingdalesassets.com/is/image/BLM/products/4/optimized/12442684_fpx.tif?op_sharpen=1&wid=240&hei=300&fit=fit,1&qlt=50&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+            "title" : "Good American",
+            "price" : 8469.00
+        },
+        {
+            "id" : 6,
+            "image" : "https://images.bloomingdalesassets.com/is/image/BLM/products/3/optimized/11825273_fpx.tif?op_sharpen=1&wid=240&hei=300&fit=fit,1&qlt=50&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+            "title" : "Good American",
+            "price" : 8469.00
+        },
+        {
+            "id" : 7,
+            "image" : "https://images.bloomingdalesassets.com/is/image/BLM/products/4/optimized/12464674_fpx.tif?op_sharpen=1&wid=240&hei=300&fit=fit,1&qlt=50&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+            "title" : "Good American",
+            "price" : 8469.00
+        },
+        {
+            "id" : 8,
+            "image" : "https://images.bloomingdalesassets.com/is/image/BLM/products/0/optimized/12603670_fpx.tif?op_sharpen=1&wid=240&hei=300&fit=fit,1&qlt=50&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+            "title" : "Good American",
+            "price" : 8469.00
+        },
+        {
+            "id" : 9,
+            "image" : "https://images.bloomingdalesassets.com/is/image/BLM/products/8/optimized/12673288_fpx.tif?op_sharpen=1&wid=240&hei=300&fit=fit,1&qlt=50&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+            "title" : "Good American",
+            "price" : 8469.00
+        },
+        {
+            "id" : 10,
+            "image" : "https://images.bloomingdalesassets.com/is/image/BLM/products/2/optimized/12679022_fpx.tif?op_sharpen=1&wid=240&hei=300&fit=fit,1&qlt=50&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+            "title" : "Good American",
+            "price" : 8469.00
+        },
+        {
+            "id" : 11,
+            "image" : "https://images.bloomingdalesassets.com/is/image/BLM/products/1/optimized/12673291_fpx.tif?op_sharpen=1&wid=240&hei=300&fit=fit,1&qlt=50&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+            "title" : "Good American",
+            "price" : 8469.00
+        },{
+            "id" : 12,
+            "image" : "https://images.bloomingdalesassets.com/is/image/BLM/products/6/optimized/12679026_fpx.tif?op_sharpen=1&wid=240&hei=300&fit=fit,1&qlt=50&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+            "title" : "Good American",
+            "price" : 8469.00
+        },
+        {
+            "id" : 13,
+            "image" : "https://images.bloomingdalesassets.com/is/image/BLM/products/9/optimized/12628779_fpx.tif?op_sharpen=1&wid=240&hei=300&fit=fit,1&qlt=50&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+            "title" : "Good American",
+            "price" : "8,459.00"
+        },
+        {
+            "id" : 14,
+            "image" : "https://images.bloomingdalesassets.com/is/image/BLM/products/3/optimized/12428053_fpx.tif?op_sharpen=1&wid=240&hei=300&fit=fit,1&qlt=50&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+            "title" : "Good American",
+            "price" : "14,456.00"
+        },
+        {
+            "id" : 15,
+            "image" : "https://images.bloomingdalesassets.com/is/image/BLM/products/8/optimized/12649288_fpx.tif?op_sharpen=1&wid=240&hei=300&fit=fit,1&qlt=50&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+            "title" : "Good American",
+            "price" : "12,832.00"
+        },
+        {
+            "id" : 16,
+            "image" : "https://images.bloomingdalesassets.com/is/image/BLM/products/3/optimized/12427203_fpx.tif?op_sharpen=1&wid=240&hei=300&fit=fit,1&qlt=50&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+            "title" : "Good American",
+            "price" : "3,892.00"
+        },
+        {
+            "id" : 17,
+            "image" : "https://images.bloomingdalesassets.com/is/image/BLM/products/5/optimized/11141315_fpx.tif?op_sharpen=1&wid=240&hei=300&fit=fit,1&qlt=50&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+            "title" : "Good American",
+            "price" : "8,982.00"
+        },
+        {
+            "id" : 18,
+            "image" : "https://images.bloomingdalesassets.com/is/image/BLM/products/7/optimized/12591237_fpx.tif?op_sharpen=1&wid=240&hei=300&fit=fit,1&qlt=50&layer=comp&op_sharpen=0&resMode=bicub&op_usm=0.7,1.0,0.5,0&fmt=jpeg",
+            "title" : "Good American",
+            "price" : "11,559.00"
+        }
+    ]
+}
